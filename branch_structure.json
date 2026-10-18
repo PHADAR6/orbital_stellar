@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1340-26-3-examples-next-starter-upgrade-next-to-16-3"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1340-26-3-examples-next-starter-upgrade-next-to-16-3": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1340-26-3-examples-next-starter-upgrade-next-to-16-3"
+  ]
+}
